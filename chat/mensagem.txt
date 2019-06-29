@@ -1,0 +1,236 @@
+
+Ewerton: oi
+Ewerton: ola
+Ewerton: como esta
+Daniel: muito engenhoso!
+Ewerton: Né não
+Ewerton: Tem que arrumar um jeito de avisar que chegou menssagem nova
+Daniel: kkk seria bem util
+Ewerton: qqr coisa tu grita: "olha o chat"
+Ewerton: coloca teu amigo aí no chat
+Daniel: ah, eu não sei como fazer. é melhor você colocar aqui
+Daniel: kk
+David: opa ^^
+Daniel: hehe
+David: def acreJogador(jogador, pais):
+David:         seleçao = open(pais + '.txt', 'a')
+David:         sep = '; '
+David:         seleçao.write(jogador['nome'] + sep + jogador['idade'] + sep + jogador['time'] + sep + jogador['posiçao'] + sep + jogador['gols'] + '\n')
+David:         seleçao.close()
+[32mEwerton: oi[m
+[31mEwerton: oi[m
+[31mEwerton: t[m
+[31mLord David: oi[m
+[31mLord David: testando cores[m
+[37mDaniel: Bora ver minha cor[m
+[31mLord David: eu to vermelho[m
+[34mO Marioral : agora estou azul[m
+[34mO Marioral : .[m
+[31mEwerton: cheguei[m
+[34mO Marioral : n to vendo o daniel[m
+[32mDaniel: Agora sim. Ser aleatorizado com Cinza é deprimente[m
+[35mEwerton: alô[m
+[33mDaniel: ;-;[m
+[33mDaniel: peso na consciencia[m
+[33mDaniel: ashuashu[m
+[32mEwerton (06/06/2019 16:56:39): novo sistema de datas[m
+[36mDaniel (06/06/2019 16:48:25): Patch 9.2.4.7.5 já disponível[m
+[36mDaniel (06/06/2019 16:48:48): Eita, eu to no passado ... kkk[m
+[34mO Marioral : CAraca[m
+[36mDaniel (06/06/2019 16:49:01): meu computador tá atrasado ashuashuas[m
+[34mO Marioral : ficou fino o negocio aqui[m
+[32mEwerton (06/06/2019 16:58:48): atualiza o chat[m
+[34mPericles (06/06/2019 16:51:14): OIII[m
+[35mArtur (27/06/2019 05:02:10): salveeee[m
+[32mGabss (27/06/2019 04:59:31): Koeee rapeize[m
+[34mEwerton (27/06/2019 05:06:29): oi[m
+[34mMatheus Rodrigues (27/06/2019 05:01:19): Oi[m
+[35mPedro Braconnott (27/06/2019 05:04:35): fala ai meus queridos alunos[m
+[32mDarkside197 (27/06/2019 05:01:59): Bom Dia[m
+[34mMatheus (27/06/2019 05:02:01): :q[m
+[34mMatheus (27/06/2019 05:02:06): :q[m
+[32mDarkside197 (27/06/2019 05:02:28): :q[m
+[33mDarkside197 (27/06/2019 05:02:52): O que é este dispositivo?[m
+[35mPedro Braconnott (27/06/2019 05:05:49): [20~[m
+[35mPedro Braconnott (27/06/2019 05:06:23): trabalho do vini nao ta bom gente[m
+[37mSantiago (27/06/2019 05:03:35): Aí esse Pedro aí, sabe d nd[m
+[35mPedro Braconnott (27/06/2019 05:06:38): vai tudo se fude na minha mao[m
+[32mgabriel (27/06/2019 05:03:46): koe[m
+[32mMarcelo Lanza (27/06/2019 05:07:40): ALOOO amigos[m
+[32mMarcelo Lanza (27/06/2019 05:08:00): Espero vcs periodo que vem[m
+[34mRomão (27/06/2019 05:07:29): NAO VAI TER MOLETOM[m
+[32mMarcelo Lanza (27/06/2019 05:08:13): Tudo na minha maozinha[m
+[32mMarcelo Lanza (27/06/2019 05:08:18): bjos[m
+[32mjuliana (27/06/2019 05:15:28): oiii[m
+[32mjuliana (27/06/2019 05:15:34): KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK[m
+[32mjuliana (27/06/2019 05:15:41): QUE FODA[m
+					      ERROR 404 
+					      Pedro has found the file
+[34mRomão (27/06/2019 05:09:28): juliana, ta expulsa do gecom[m
+[37mYara (27/06/2019 05:09:57): coe bando de animal [m
+[34mTheodósio (27/06/2019 05:07:10): Venho por meio deste meio comunicar que Juliana está devidamente jubilada do curso de Engenharia Eletrônica e de Computação[m
+[37mYara (27/06/2019 05:10:08): ja aprenderam a materia do ensino medio?[m
+[37mYara (27/06/2019 05:10:53): [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[m
+[37mYara (27/06/2019 05:10:57): [B[m
+[37mYara (27/06/2019 05:10:58): [B[m
+[37mYara (27/06/2019 05:11:00): [B[m
+[37mYara (27/06/2019 05:11:01): [B[m
+[37mYara (27/06/2019 05:11:01): [B[m
+[36mEON (27/06/2019 05:08:30): Siimmmm[m
+[36mEON (27/06/2019 05:08:47): Já aprenderam orbitais moleculares[m
+[36mEON (27/06/2019 05:09:00): Química é incrível![m
+[34mJuliana Barros (27/06/2019 05:12:53): vai se fuder EON[m
+[34mEON (27/06/2019 05:09:37):  [m
+[34mgabrielvelloso (27/06/2019 05:09:08): eon <3[m
+[34mEON (27/06/2019 05:09:45): Como assim???[m
+[34mEON (27/06/2019 05:09:55): Minha melhor aluna falando tais atrocidades[m
+[37mGuerra (27/06/2019 05:15:57): agora sim[m
+[34mEON (27/06/2019 05:10:13): Bom dia Velloso, está reprovado.[m
+[36mJu Barros (27/06/2019 05:13:22): gente, fisexp é incrivel[m
+[34mgabrielvelloso (27/06/2019 05:09:53): to mesmo[m
+[34mJuliana Barros (27/06/2019 05:14:12): Discordo[m
+[36mjuju (27/06/2019 05:11:03): Olá![m
+[36mJu Barros (27/06/2019 05:14:16): oi juju[m
+[36mjuju (27/06/2019 05:11:34): olá ju barros, td bem??[m
+[34mJuliana Barros (27/06/2019 05:15:17): Salveee ju[m
+[37mGuerra (27/06/2019 05:17:33): [A[m
+[36mjuju (27/06/2019 05:12:00): salvem tds as jus[m
+[36mJu Barros (27/06/2019 05:14:57): [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[COM[m
+
+[32mPlot twist (27/06/2019 05:13:56): plot twist[m
+[32mPlot twist (27/06/2019 05:14:54): Só os que vieram e não vão apresentar hj[m
+[34mgabriel (27/06/2019 05:25:00): oioi[m
+[34mEwerton (27/06/2019 05:21:17): \n[m
+[32mPlot twist (27/06/2019 05:17:02): j[m
+[34mgabrielvelloso (27/06/2019 05:18:18): [A[A[m
+[33mjuliana (27/06/2019 05:28:59): KKKKKKKKKKK[m
+[34mgabrielvelloso (27/06/2019 05:18:26):  [m
+[34mgabrielvelloso (27/06/2019 05:18:35): [A[A[A[A[A[A[m
+[34mgabrielvelloso (27/06/2019 05:18:38): [A[A[A[m
+[37mAC (27/06/2019 05:23:55): Meus camaradas, aqui esta instaurada a revolucao socialista. salve iago[m
+[34mgabrielvelloso (27/06/2019 05:18:51): [A[A[A[A[m
+[34mgabrielvelloso (27/06/2019 05:19:01): [B[m
+[34mgabrielvelloso (27/06/2019 05:19:07): [A[A[A[A[A[A[A[A[A[A[A[A[m
+[34mgabrielvelloso (27/06/2019 05:19:14): [m
+[37mAC (27/06/2019 05:24:44): [C[m
+[37mAC (27/06/2019 05:24:48): [B[B[B[B[B[B[B[B[B[B[B[m
+[37mAC (27/06/2019 05:24:50): [B[B[B[B[B[B[B[B[B[B[B[B[m
+[37mAC (27/06/2019 05:25:17): Avaliacao final e x1 entre tiago e iago. quem morrer primeiro perde[m
+[36mtenso (27/06/2019 05:20:52): .[m
+[33mlanza (27/06/2019 05:21:30): to vendo o ip de vcs[m
+[34mLazaro  (27/06/2019 05:26:38): habla comigo, passa la vizon mis amis[m
+[37mGuerra (27/06/2019 05:28:20): Desplaciado[m
+[35mangrydog37 (27/06/2019 05:22:58): opa[m
+[34mMarcus Venicius (27/06/2019 05:26:42): Ta tudo reprovado bando de fdp[m
+[34mMarcus Venicius (27/06/2019 05:26:52): falta fisica 1 na casa do caralho[m
+[32mMangue Boy (27/06/2019 05:26:11): bom dia gente. quem vem tomar banho de mangue comigo hoje?[m
+[37mGabriel (27/06/2019 05:23:35): Ah koe lek kkkk[m
+[34mLazaro  (27/06/2019 05:28:14): quem apoia x1 entre Im e If ?[m
+[34mMarcus Venicius (27/06/2019 05:27:47): VOu ser o primeiro a te quebrar vacilao[m
+[37mBiroliro (27/06/2019 05:27:04): parem com essa balburdia ai criançada[m
+[37mBiroliro (27/06/2019 05:27:09): bando de vagabundo[m
+[31mSpotted (27/06/2019 05:24:20): Isso aqui é um grupo ou um cabaré?[m
+[37mparracho (27/06/2019 05:29:40): reitoria hj rapaziada?[m
+[31mSpotted (27/06/2019 05:25:21): =change%7[m
+[31mDeus (27/06/2019 05:31:27): Vou apagar o universo[m
+[34mMarcus Venicius (27/06/2019 05:29:11): Queria mandar um spotted para o garoto que caiu no mangue na calourada da reitoria[m
+[34mMarcus Venicius (27/06/2019 05:29:16): princesinho[m
+[37mparracho (27/06/2019 05:30:50): eon e marcus vinicius, nao sabia que a geriatria tava aqui[m
+[31mSpotted (27/06/2019 05:26:21): Queria mandar um spotted para o garoto que caiu no mangue na calourada da reitoria, princesinho[m
+[33mmangue boy (27/06/2019 05:26:32): Meu dia chegou!!![m
+[32m (27/06/2019 05:33:00):  [m
+[33mIago  (27/06/2019 05:31:41): e aqui a reuniao dos comunistas? [m
+[33mIago  (27/06/2019 05:31:49): ?wq[m
+[33mIago  (27/06/2019 05:31:53): ?wq[m
+[33mIago  (27/06/2019 05:32:00): wq[m
+[33mIago  (27/06/2019 05:32:21): MEU SONHO E IMPLANTAR UMA REVOLUCAO SOCIALISTA[m
+[37mAC (27/06/2019 05:31:44): trabalho secreto de comp[m
+[37mAC (27/06/2019 05:31:48): revolucao.py[m
+[37mmangue (27/06/2019 05:32:42): oi gente, alguem quer cair em mim hj?[m
+[35mThiago (27/06/2019 05:31:14): coe iago[m
+[34mBolsonaro (27/06/2019 05:34:25): To vendo essa zueira aí[m
+[35mThiago (27/06/2019 05:31:33): eu e tu na mao, 10min sem perder a ideologia[m
+[37mmangue (27/06/2019 05:33:11): @mague boy, vem querido.[m
+[35mjuju (27/06/2019 05:38:40): o chat n carrega aaaaaaaaa[m
+[33mdamares (27/06/2019 05:33:35): isso e coisa do demonio[m
+[33mPaulo GUedes (27/06/2019 05:34:01): temos que aprovar a previdencia[m
+[34mspectate (27/06/2019 05:29:45):  [m
+[33mjoca (27/06/2019 05:34:45): ta geral se fudendo rapeize[m
+[31mju barros (27/06/2019 05:33:24): coe suA FALSA[m
+[35mJuliana Barros (27/06/2019 05:34:24): VEM TRANQUILO JOCA[m
+[34mjuju (27/06/2019 05:30:51): PQ TEM UM MONTE DE GENTE COM MEU NOME?!?!?[m
+[32mgalvao  (27/06/2019 05:35:45): bom dia amigos de eletronica, hoje tem brasil e paraguais as 21 e 30 na reeede globo [m
+[34mPedro Braconnott (27/06/2019 05:37:48): Façam silencio, estou tentando corrigir os trabalhos[m
+[33mjuliana (27/06/2019 05:36:34): eu amo fisexp[m
+[33mjuliana (27/06/2019 05:36:39): melhor materia[m
+[34mjuju (27/06/2019 05:32:27): Eu amo o eon[m
+[36mThiago (27/06/2019 05:38:16): vou privatizar esse chat aq [m
+[35mJuliana Barros (27/06/2019 05:36:07): vsf[m
+[34mjuju (27/06/2019 05:32:31): mt fofo[m
+[34mjuju ofical (27/06/2019 05:37:12): sai daqui suas fake news[m
+[35mJuliana Barros (27/06/2019 05:36:20): EU AMO QUIMICA MELHOR MATERIA AAAAAAAAAAAA[m
+[36mThiago (27/06/2019 05:38:35): :q[m
+[37mPalma (27/06/2019 05:35:43): vou te dar uma palmada[m
+[32miago (27/06/2019 05:37:33): privatiza seu burgues safado. a revolucao vira[m
+[34mjuju (27/06/2019 05:33:07): fon[m
+[34mgabrielvelloso (27/06/2019 05:33:00): [A[A                        [m
+[36mmangue boy (27/06/2019 05:38:10): ue quero palmada no popo[m
+[35mJuliana Barros (27/06/2019 05:37:21): fon fon fon fon fon foooon fon[m
+[37mrodrigo (27/06/2019 05:36:43): bom dia gente[m
+[37mrodrigo (27/06/2019 05:36:54): a notas de fisexp sairam amanha[m
+[34mjuju (27/06/2019 05:34:01): bom dia[m
+[35mJuliana Barros (27/06/2019 05:37:47): sa[m
+[34mjuju (27/06/2019 05:34:08): plot twist[m
+[35mJuliana Barros (27/06/2019 05:37:49): sai[m
+[37mJuliana Barros (27/06/2019 05:40:42): Eu amo fisexp, quimica e o guilherme[m
+[32mrevolução socialista (27/06/2019 05:37:52): oi iaguinho s2[m
+[33mCapitalismo (27/06/2019 05:35:12): Bom dia my fellow americans[m
+[32mrevolução socialista (27/06/2019 05:38:22): coe irmao ta de sacanagem?[m
+[32mdilma (27/06/2019 05:45:51): bom dia meu povo subdesenvolvido[m
+[36mIago (27/06/2019 05:40:45): Oi meu eterno amor *-* [m
+[36mPCB (27/06/2019 05:40:00): BOm dia iaguito[m
+[31mPCdoB (27/06/2019 05:39:16): bom dia iago[m
+[35mCaptalism (27/06/2019 05:36:34): WHAT IS HAPPENING HERE????[m
+[37mTeodosio (27/06/2019 05:35:56): Não foi pra isso que eu virei cordenador[m
+[31mPCdoB (27/06/2019 05:40:09): quem quer entrar no partido da manuzinha levanta a mao[m
+[37mPedro Braconnot  (27/06/2019 05:37:16): Não ensinei python pra isso[m
+[36mIago (27/06/2019 05:42:18): ae capetalismo filha da puta, o poder pertence ao povo, empreende isso ai [m
+[35mEwerton (27/06/2019 05:43:56): Não fiz um chat pra isso[m
+[31mPCdoB (27/06/2019 05:41:07): vem socializar o nosso amor iaguinho s2[m
+[34mCapitalism (27/06/2019 05:42:11): Stop this thing right now[m
+[36mIago (27/06/2019 05:43:20): haha sai PCdoB refortmista do caraio [m
+[34mCapitalism (27/06/2019 05:42:29): Lets drink some coke[m
+[31mPCdoB (27/06/2019 05:42:07): mas meu amor, e a nossa filiação(EU SOU CAPITALISTA)?[m
+[31mManuela dAvila (27/06/2019 05:43:33): Vamos reformar o capitalismo Iago!!![m
+[36mIago (27/06/2019 05:44:37): whats is happing is that you are fucking the proletarians you peace of shit economic model [m
+[31mPCdoB (27/06/2019 05:43:33): [C[m
+[33mthiagoF (27/06/2019 05:46:37):  [m
+[34mthiago (27/06/2019 05:44:30): coe iagao, vem pra minha empresa[m
+[34mthiago (27/06/2019 05:44:44): vamos ser feliz com o nosso lucro[m
+[33mJair M. Bolsonaro (27/06/2019 05:45:29): Aqui que vende droga?[m
+[33mAnonymous (27/06/2019 05:42:05): Olá caros programadores, venho recrutá-los para um plano maior[m
+[33mJair M. Bolsonaro (27/06/2019 05:46:08): quero pó[m
+[37mEwerton (27/06/2019 05:48:27): Anonymous, chama pv[m
+[33mJair M. Bolsonaro (27/06/2019 05:46:13): michelle ta na vontade[m
+[36mIago (27/06/2019 05:47:17): Ae Manu nao vai dar pq vc apoiou o empadinha do rodrigo maia p presidente da camera [m
+[32maviao da FAB (27/06/2019 05:45:46): entra com isso em mim nao[m
+[33mJair M. Bolsonaro (27/06/2019 05:46:41): oi kerido[m
+[32mRodrigo Maia (27/06/2019 05:46:30): bom dia galera. alguem me citou?[m
+[33mJair M. Bolsonaro (27/06/2019 05:47:41): nao[m
+[33mJair M. Bolsonaro (27/06/2019 05:48:03): nao é aqui deep web nao???[m
+[33mJair M. Bolsonaro (27/06/2019 05:48:12): falaram que vende pó[m
+[33mJair M. Bolsonaro (27/06/2019 05:48:30): add no chat[m
+[33mAnonymous (27/06/2019 05:44:54):  :q![m
+[33mJair M. Bolsonaro (27/06/2019 05:48:35): Jbolso12345[m
+[36mIago (27/06/2019 05:49:55): haha aviao da FAB carregava 39 kg de cocaina e 74 kg de Jair Bolsonaro [m
+[33mJair M. Bolsonaro (27/06/2019 05:49:06): [m
+[33mJair M. Bolsonaro (27/06/2019 05:49:21): Ta me chamando de gordo[m
+[33mJair M. Bolsonaro (27/06/2019 05:49:27): tudo marxista cultural[m
+[37mJair M. Bolsonaro (27/06/2019 05:50:49): rinha de galo liberada[m
+[37mJair M. Bolsonaro (27/06/2019 05:50:55): comunismo proibido[m
+[37mJair M. Bolsonaro (27/06/2019 05:50:58): bom dia[m
+[37mJair M. Bolsonaro (27/06/2019 05:51:01): grande dia[m
+[36mIago (27/06/2019 05:52:49): vem aq na sexta jairzinho que vc vai ver o marxismo cultural, e vai gostar [m
+[36mIago (27/06/2019 06:01:40): Hiel Hitler[m
+[36mIago (27/06/2019 06:05:29): oi[m
+[34mgabrielvelloso (27/06/2019 07:50:47): oi[m
