@@ -1,0 +1,6 @@
+Marcelo;29;Real Madri;lateral;2
+Neymar;25;PSG;atacante;0
+Philippe Coutinho;27;Barcelona;meio-campo;2
+Cássio;31;Corinthians;goleiro;0
+Fagner;28;Corinthians;lateral;1
+Pedro Geromel;32;Grêmio;zagueiro;2
